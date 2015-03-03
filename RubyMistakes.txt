@@ -8,5 +8,4 @@ Ruby Hard Way Questions
 
 - I don't understand in exercise 8, why we are suddenly using %. And what he means by applying to multiple variables using %.
 - In exercise 15, There is a side instruction to "run ri open" and read the instructions. Where? My terminal rejects that.
-- okay, the irb pill from makers helped a little - but not about complicated things
 - ex15 Have your script also call close() on the txt and txt_again variables. It's important to close files when you are done with them.
