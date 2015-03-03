@@ -1,3 +1,0 @@
-I am a shape.
-I am rectangle.
-I am a triangle.
