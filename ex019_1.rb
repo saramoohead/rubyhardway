@@ -18,3 +18,14 @@ dads_books = (30 * 2)
 kids_books = (30 * 14)
 
 how_many_books(moms_books + dads_books + kids_books, 1, 1)
+
+puts ""
+puts "Now you tell me."
+puts "How many bookcases do you have?"
+user_bookcases = gets.chomp.to_i
+puts "About how many shelves does each bookcase have?"
+user_bookshelves = gets.chomp.to_i
+puts "And now guess how many books on average are on each shelf:"
+user_books_per_shelf = gets.chomp.to_i
+
+how_many_books(user_books_per_shelf, user_bookshelves, user_bookcases)
