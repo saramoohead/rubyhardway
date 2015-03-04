@@ -14,3 +14,10 @@ Did you put the ( character after the name to run it?
 Did you put the values you want into the parenthesis separated by commas?
 4. Did you end the function call with a ) character?
 5. Functions that don't have parameters do not need the () after them, but would it be clearer if you wrote them anyway?
+
+
+use “=“ and “return” to set variables to be a value from a function
+
+
+
+
